@@ -16,4 +16,4 @@ Most of my recent work lives on a separate work account, so this profile looks q
 
 Day-to-day stack: Python (LangGraph, LangChain, FastAPI, Pydantic, PyTorch, Transformers), the Claude API for orchestration, ChromaDB for retrieval, AWS / Docker / Kubernetes for anything that runs longer than a script.
 
-joseph.tartivel@skello.io
+josephtartivel@gmail.com
