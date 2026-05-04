@@ -1,6 +1,6 @@
 ### Joseph Tartivel
 
-AI Engineer at [Skello](https://skello.io) — building production multi-agent systems on top of the Claude API: multi-model orchestration, LLM-as-judge validation, RAG over internal sources, evaluation loops driven by user feedback. Wrapping up an EIT Digital double MSc (Data Science + Innovation & Entrepreneurship) at UPM Madrid and the University of Twente.
+AI Engineer at [Skello](https://skello.io) — building production multi-agent systems on top of Claude API: multi-model orchestration, LLM-as-judge validation, RAG over internal sources, evaluation loops driven by user feedback. Wrapping up an EIT Digital double MSc (Data Science + Innovation & Entrepreneurship) at UPM Madrid and the University of Twente.
 
 Outside the day job: co-founder and CTO of Mannequin, a privacy-first social network now in beta on iOS / Android.
 
